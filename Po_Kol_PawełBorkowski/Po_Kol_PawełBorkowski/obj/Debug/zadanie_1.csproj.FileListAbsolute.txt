@@ -1,0 +1,7 @@
+C:\Users\local\source\repos\Po_Kol_PawełBorkowski\Po_Kol_PawełBorkowski\bin\Debug\Po_Kol_PawełBorkowski.exe.config
+C:\Users\local\source\repos\Po_Kol_PawełBorkowski\Po_Kol_PawełBorkowski\bin\Debug\Po_Kol_PawełBorkowski.exe
+C:\Users\local\source\repos\Po_Kol_PawełBorkowski\Po_Kol_PawełBorkowski\bin\Debug\Po_Kol_PawełBorkowski.pdb
+C:\Users\local\source\repos\Po_Kol_PawełBorkowski\Po_Kol_PawełBorkowski\obj\Debug\zadanie_1.csprojAssemblyReference.cache
+C:\Users\local\source\repos\Po_Kol_PawełBorkowski\Po_Kol_PawełBorkowski\obj\Debug\zadanie_1.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\Po_Kol_PawełBorkowski\Po_Kol_PawełBorkowski\obj\Debug\Po_Kol_PawełBorkowski.exe
+C:\Users\local\source\repos\Po_Kol_PawełBorkowski\Po_Kol_PawełBorkowski\obj\Debug\Po_Kol_PawełBorkowski.pdb
